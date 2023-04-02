@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+box-sizing: border-box;
+}
+
+body {
+font-family: Arial;
+padding: 10px;
+background:#B99976
+;
+}
+
+/* Header/Blog Title */
+.header {
+padding: 30px;
+text-align: center;
+background: #f5f5f5;
+}
+
+.header h1 {
+font-size: 50px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+overflow: hidden;
+background-color: #000000;
+}
+
+/* Style the topnav links */
+.topnav a {
+float: left;
+display: block;
+color: #B99976;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+float: left;
+width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+float: left;
+width: 25%;
+background-color: #B99976;
+padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+background-color: #f5f5f5;
+width: 100%;
+padding: 20px;
+}
+
+/* Fake image */
+.fakeimgg {
+background-color: #E5D3B3;
+width: 100%;
+padding: 20px;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Add a card effect for articles */
+.card {
+background: #E5D3B3;
+padding: 20px;
+margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+/* Footer */
+.footer {
+padding: 20px;
+text-align: center;
+background: black;
+margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+.leftcolumn, .rightcolumn {
+width: 100%;
+padding: 0;
+}
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+.topnav a {
+float: none;
+width: 100%;
+}
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1>Welcome to my own personal space!</h1>
+<h7>Dreams don't work until you do</h7>
+</div>
+
+<div class="topnav">
+<a href="draft.html">Home</a>
+<a href="https://www.facebook.com/shaine.ponce.5">Facebook</a>
+<a href="https://www.instagram.com/itshainep/">Instagram</a>
+<a href="draft.html" style="float:right">Back</a>
+</div>
+
+<div class="row">
+<div class="leftcolumn">
+<div class="card">
+<h2>MAKE YOUR DREAMS HAPPEN</h2>
+<h5>a talk about dreams</h5>
+
+<p>The process of living is dynamic and filled with ups and downs. Sometimes managing life's contradictions may be quite taxing, which is why your mind wanders. Most ideas are often driven by what individuals want, or what we refer to as the dream life. Everyone has a lifelong dream that they want to realize when they are an adult. Some children aspire to become wealthy so they may purchase anything, while others want to become doctors, lawyers, or engineers. Yet, only you are aware of the fact that in order to accomplish your goals, you must work hard and remain focused. </p>
+<p>Determination<br>
+The first requirement for making a dream come true is determination. You will benefit from this in a variety of ways. First of all, it will assist you in choosing how to go with whatever. Also, it will assist you in making future travel plans. It will also be beneficial to move slowly and steadily in the direction of the dream. And no matter how great my idea, preparing and establishing short-term objectives will always be beneficial. This is crucial since chasing your ambition too quickly won't benefit you in any manner. In addition, certain dreams require patience and a specific method to be followed in order to be realized.</p>
+<p>Staying Motivated<br>
+One of the biggest reasons why someone is obligated to give up their ambition is a lack of drive. Hence, maintaining motivation is a component of the objective. And you won't be able to realize your ambition if you can't maintain your optimism. Many people nowadays give up on their dream journeys in the middle because they lack drive.</p>
+<p>Keep Remembering Goal<br>
+You must keep your dream in mind if you want to achieve it. And constantly remind yourself of this dream. When things become tough and you want to give up, just keep your focus on the goal. This will keep you motivated. And if you think you made a serious mistake, start over with a clean slate.</p>
+<p>Reward Yourself<br>
+You may treat yourself without having to reach goals. Make modest goals for yourself and reward yourself when you achieve them. These prizes might range from candy to your own preference. Also, this is an effective kind of self-motivation.</p>
+<p>Take Some Breaks<br>
+Working for your goals does not mean that you must work nonstop. On top of that, people quickly start to lose motivation as a result of constant work. Thus, relaxing will benefit both your body and mind. Take a little break from your schedule and participate in other activities to achieve this.</p>
+</div>
+<div class="card">
+<h2>BE YOURSELF, BUT ALWAYS YOUR BETTER SELF</h2>
+<h5>a talk about life</h5>
+<p>Whether it's to reduce their weight, stop smoking, or boost their confidence, the majority of individuals desire to improve themselves in some aspect. We all work on improving ourselves throughout our lives, but it may be a difficult challenge to stay motivated. So commit to it.</p>
+<p>Being your best self can mean a lot of things to different people, but what does it really mean? It means being your own Superman. It means to be evrything you can possibly be; to be confident in yourself, in not only looks but knowing you can do anything. Being your best self means to be happy and live your life. Conifence means having faith in yourself in many ways. Having confidence means knowing you can do anything and everything you set your mind to. You see, it isn’t about being someone else’s vision of you, but being yourself.</p>
+<p> Being yourself doesn’t mean you are selfish or you don’t care about anyone. Being yourself means living life how you wanted to live it, regardless of other peoples’ opinions. And it just means you respect yourself. Worrying about what others will think is just a waste of time, you can’t control them or control their thoughts. Everyone has their own life and they are free to live their life on their own terms and conditions. You need to work hard until you find your better or best version. If you know that you can still go for more, then work hard and be patient until you found your better self. It is important that you know yourself and you are always genuine. But you should settle for who you are once you know that you are better than who you are before. Don't settle for less, aim for the best!</p>
+</div>
+</div>
+<div class="rightcolumn">
+<div class="card">
+<h2>Shaine Ponce</h2>
+<img src="shaine.jpg" style="height:260px; width:250px;">
+
+<p>Hi! I am Shaine. A 16 years old girl turning 17 this June 2, a certified gemini baby. I am currently studying at UCLM, in my 10th grade, and will graduate soon.</p>
+</div>
+<div class="card">
+<h3>Moodboard</h3>
+<img src="mb.jpg" style="height:322.5px; width:268px;">
+</div>
+<div class="card">
+<h3>Follow Me!</h3>
+<p>@tiktok : itshainep</p>
+<p>@instagram : itshainep</p>
+<p>@facebook : Shaine Ponce</p>
+</div>
+</div>
+</div>
+
+<div class="footer">
+<h2 style="color:#B99976">THANK YOU FOR VISITING MY PAGE!</h2>
+
+</div>
+
+</body>
+</html>
